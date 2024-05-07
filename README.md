@@ -12,6 +12,7 @@ Before you begin, please ensure that you have the following installed:
 - [**OpenCart application**](https://www.opencart.com/?route=cms/download) installed locally and fully set up
 
 Make sure that after installing, OpenCart website can be accessed from local host via: http://localhost/opencart/upload/
+
 Access the Admin Dashboard to set up the API with _**username: admin**_ and _**password: admin**_ via: http://localhost/opencart/upload/admin
 
 ## API Configuration
