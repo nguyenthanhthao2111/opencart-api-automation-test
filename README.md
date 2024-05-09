@@ -67,4 +67,9 @@ To run regression testing, check the **testing.xml** file. In here, there is a l
 
 ![img10](https://github.com/nguyenthanhthao2111/opencart-api-automation-test/assets/92444135/9d3fb9ab-3186-49f8-bc3a-53da29b56ac8)
 
+## Related Document
+- [OpenCart Manual Test Scenarios and Test Cases](https://docs.google.com/spreadsheets/d/1NhXVUkACwgQklnJYUHEzTCEmXYq0Ylno/edit?usp=sharing&ouid=104719892845518283158&rtpof=true&sd=true)
+
+- [OpenCart API Postman collection](https://drive.google.com/file/d/1nPaFgJ8cGmTwlU3HiLPPRoFTgSWq_vPy/view?usp=sharing)
+
 --- _**THE END**_ ---
